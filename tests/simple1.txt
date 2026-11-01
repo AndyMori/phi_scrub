@@ -1,0 +1,95 @@
+CONTINUITY OF CARE DOCUMENT
+
+Patient Name: Michael James Anderson
+Medical Record Number (MRN): 45892217
+Date of Birth: 03/14/1978
+Social Security Number: 123-45-6789
+Gender: Male
+
+Home Address:
+1427 Willow Creek Drive
+Austin, TX 78704
+
+Home Phone: (512) 555-2187
+Mobile Phone: (512) 555-7321
+Email: michael.anderson1978@example.com
+
+Employer: Lone Star Construction LLC
+Employee ID: EMP-44721
+
+Emergency Contact:
+Sarah Anderson (Spouse)
+Phone: (512) 555-8844
+Address: 1427 Willow Creek Drive, Austin, TX 78704
+
+Insurance Information:
+Payer: Blue Horizon Health
+Member ID: BHX-99281744
+Group Number: G77291
+
+Encounter Information:
+Encounter ID: ENC-20261030-001
+Admission Date: 10/28/2026 08:15 AM
+Discharge Date: 10/30/2026 02:42 PM
+Facility: Austin Regional Medical Center
+Facility Address: 500 Medical Parkway, Austin, TX 78701
+
+Attending Physician:
+Dr. Emily Katherine Roberts
+NPI: 1457689123
+Phone: (512) 555-4433
+
+Chief Complaint:
+Chest pain and shortness of breath for two days.
+
+History of Present Illness:
+Michael James Anderson, a 48-year-old male, presented to Austin Regional
+Medical Center on 10/28/2026 with intermittent substernal chest pain and
+shortness of breath. Symptoms began while working at Lone Star Construction LLC.
+
+Past Medical History:
+- Hypertension
+- Type 2 Diabetes Mellitus
+- Hyperlipidemia
+
+Allergies:
+- Penicillin
+
+Medications:
+- Lisinopril 20 mg daily
+- Metformin 1000 mg twice daily
+- Atorvastatin 40 mg nightly
+
+Laboratory Results:
+Patient Account Number: ACCT-7744112
+
+Troponin I: 0.02 ng/mL
+Glucose: 184 mg/dL
+HbA1c: 7.8%
+
+Radiology:
+CT Study ID: CT-882144
+Chest X-ray Accession Number: XR-2026-99112
+
+Assessment:
+1. Atypical chest pain
+2. Hypertension
+3. Type 2 diabetes mellitus
+
+Plan:
+- Follow up with primary care physician within 7 days
+- Continue home medications
+- Schedule outpatient cardiology consultation
+
+Primary Care Physician:
+Dr. Jonathan Lee
+Clinic: Central Texas Family Practice
+Address: 3100 Cedar Avenue, Austin, TX 78705
+Phone: (512) 555-2201
+
+Next Appointment:
+11/06/2026 at 09:30 AM
+Confirmation Number: APPT-557812
+
+Document ID: CCD-20261030-9917
+Created: 10/30/2026 03:04 PM

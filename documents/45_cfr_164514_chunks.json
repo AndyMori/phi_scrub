@@ -1,0 +1,548 @@
+[
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0000",
+    "text": "This content is from the eCFR and is authoritative but unofficial. Title 45 —Public Welfare\nSubtitle A —Department of Health and Human Services\nSubchapter C —Administrative Data Standards and Related Requirements\nPart 164 —Security and Privacy\nSubpart E —Privacy of Individually Identifiable Health Information\nAuthority: 42 U.S.C. 1320d-2, 1320d-4, and 1320d-9; sec. 264 of Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2\n(note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279. Authority: 42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 0,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(note)",
+      "char_start": 0,
+      "char_end": 588
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0001",
+    "text": "42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat.\n\n2033-2034 (42 U.S.C. 1320d-2(note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279. Source: 65 FR 82802, Dec. 28, 2000, unless otherwise noted. § 164.514 Other requirements relating to uses and disclosures of protected health information. (a) Standard: De-identification of protected health information. Health information that does not identify an\nindividual and with respect to which there is no reasonable basis to believe that the information can be\nused to identify an individual is not individually identifiable health information.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 1,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "",
+      "char_start": 510,
+      "char_end": 1139
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0002",
+    "text": "d to identify an individual is not individually identifiable health information.\n\n(b) Implementation specifications: Requirements for de-identification of protected health information.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 2,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(b)",
+      "char_start": 1059,
+      "char_end": 1243
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0003",
+    "text": "cifications: Requirements for de-identification of protected health information.\n\nA\ncovered entity may determine that health information is not individually identifiable health information\nonly if:\n(1) A person with appropriate knowledge of and experience with generally accepted statistical and\nscientific principles and methods for rendering information not individually identifiable:\n(i) Applying such principles and methods, determines that the risk is very small that the\ninformation could be used, alone or in combination with other reasonably available information,\nby an anticipated recipient to identify an individual who is a subject of the information;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 3,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(1)",
+      "char_start": 1163,
+      "char_end": 1826
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0004",
+    "text": "cipated recipient to identify an individual who is a subject of the information;\n\nand\n(ii) Documents the methods and results of the analysis that justify such determination; or\n(2)\n(i) The following identifiers of the individual or of relatives, employers, or household members of\nthe individual, are removed:\n(A) Names;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 4,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(ii)",
+      "char_start": 1746,
+      "char_end": 2066
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0005",
+    "text": "ives, employers, or household members of\nthe individual, are removed:\n(A) Names;\n\n(B) All geographic subdivisions smaller than a State, including street address, city, county,\nprecinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip\ncode if, according to the current publicly available data from the Bureau of the Census:\n(1) The geographic unit formed by combining all zip codes with the same three initial\ndigits contains more than 20,000 people; and\n(2) The initial three digits of a zip code for all such geographic units containing 20,000 or\nfewer people is changed to 000.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 5,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(A)",
+      "char_start": 1986,
+      "char_end": 2603
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0006",
+    "text": "r all such geographic units containing 20,000 or\nfewer people is changed to 000.\n\n(C) All elements of dates (except year) for dates directly related to an individual, including\nbirth date, admission date, discharge date, date of death; and all ages over 89 and all\nelements of dates (including year) indicative of such age, except that such ages and\nelements may be aggregated into a single category of age 90 or older;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 6,
+      "start_page": 1,
+      "end_page": 1,
+      "heading": "(C)",
+      "char_start": 2523,
+      "char_end": 2942
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0007",
+    "text": "h ages and\nelements may be aggregated into a single category of age 90 or older;\n\n(D) Telephone numbers; (E) Fax numbers; (F) Electronic mail addresses; (G) Social security numbers; (H) Medical record numbers; (I) Health plan beneficiary numbers; (J) Account numbers; (K) Certificate/license numbers; (L) Vehicle identifiers and serial numbers, including license plate numbers; (M) Device identifiers and serial numbers; (N) Web Universal Resource Locators (URLs); (O) Internet Protocol (IP) address numbers; (P) Biometric identifiers, including finger and voice prints; (Q) Full face photographic images and any comparable images;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 7,
+      "start_page": 1,
+      "end_page": 2,
+      "heading": "(D)",
+      "char_start": 2862,
+      "char_end": 3493
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0008",
+    "text": "r and voice prints; (Q) Full face photographic images and any comparable images;\n\nand\n(R) Any other unique identifying number, characteristic, or code, except as permitted by\nparagraph (c) of this section; and\n(ii) The covered entity does not have actual knowledge that the information could be used alone or\nin combination with other information to identify an individual who is a subject of the\ninformation. (c) Implementation specifications: Re-identification. A covered entity may assign a code or other means of\nrecord identification to allow information de-identified under this section to be re-identified by the covered\nentity, provided that:\n(1) Derivation.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 8,
+      "start_page": 2,
+      "end_page": 2,
+      "heading": "(R)",
+      "char_start": 3413,
+      "char_end": 4079
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0009",
+    "text": "ection to be re-identified by the covered\nentity, provided that:\n(1) Derivation.\n\nThe code or other means of record identification is not derived from or related to\ninformation about the individual and is not otherwise capable of being translated so as to identify\nthe individual; and\n(2) Security. The covered entity does not use or disclose the code or other means of record identification\nfor any other purpose, and does not disclose the mechanism for re-identification. (d)\n(1) Standard: minimum necessary requirements.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 9,
+      "start_page": 2,
+      "end_page": 2,
+      "heading": "(1)",
+      "char_start": 3999,
+      "char_end": 4522
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0010",
+    "text": "chanism for re-identification. (d)\n(1) Standard: minimum necessary requirements.\n\nIn order to comply with § 164.502(b) and this section, a\ncovered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with\nrespect to a request for, or the use and disclosure of, protected health information. (2) Implementation specifications: Minimum necessary uses of protected health information. (i) A covered entity must identify:\n(A) Those persons or classes of persons, as appropriate, in its workforce who need access to\nprotected health information to carry out their duties; and",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 10,
+      "start_page": 2,
+      "end_page": 2,
+      "heading": "(1)",
+      "char_start": 4442,
+      "char_end": 5045
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0011",
+    "text": "e who need access to\nprotected health information to carry out their duties; and\n\n(B) For each such person or class of persons, the category or categories of protected health\ninformation to which access is needed and any conditions appropriate to such access. (ii) A covered entity must make reasonable efforts to limit the access of such persons or classes\nidentified in paragraph (d)(2)(i)(A) of this section to protected health information consistent\nwith paragraph (d)(2)(i)(B) of this section. (3) Implementation specification: Minimum necessary disclosures of protected health information.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 11,
+      "start_page": 2,
+      "end_page": 3,
+      "heading": "(B)",
+      "char_start": 4965,
+      "char_end": 5560
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0012",
+    "text": "on specification: Minimum necessary disclosures of protected health information.\n\n(i) For any type of disclosure that it makes on a routine and recurring basis, a covered entity must\nimplement policies and procedures (which may be standard protocols) that limit the protected\nhealth information disclosed to the amount reasonably necessary to achieve the purpose of the\ndisclosure. (ii) For all other disclosures, a covered entity must:\n(A) Develop criteria designed to limit the protected health information disclosed to the\ninformation reasonably necessary to accomplish the purpose for which disclosure is\nsought;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 12,
+      "start_page": 3,
+      "end_page": 3,
+      "heading": "(i)",
+      "char_start": 5480,
+      "char_end": 6096
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0013",
+    "text": "n reasonably necessary to accomplish the purpose for which disclosure is\nsought;\n\nand\n(B) Review requests for disclosure on an individual basis in accordance with such criteria. (iii) A covered entity may rely, if such reliance is reasonable under the circumstances, on a\nrequested disclosure as the minimum necessary for the stated purpose when:\n(A) Making disclosures to public officials that are permitted under § 164.512, if the public\nofficial represents that the information requested is the minimum necessary for the stated\npurpose(s); (B) The information is requested by another covered entity;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 13,
+      "start_page": 3,
+      "end_page": 3,
+      "heading": "(B)",
+      "char_start": 6016,
+      "char_end": 6618
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0014",
+    "text": "e stated\npurpose(s); (B) The information is requested by another covered entity;\n\n(C) The information is requested by a professional who is a member of its workforce or is a\nbusiness associate of the covered entity for the purpose of providing professional\nservices to the covered entity, if the professional represents that the information\nrequested is the minimum necessary for the stated purpose(s); or\n(D) Documentation or representations that comply with the applicable requirements of §\n164.512(i) have been provided by a person requesting the information for research\npurposes. (4) Implementation specifications: Minimum necessary requests for protected health information.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 14,
+      "start_page": 3,
+      "end_page": 3,
+      "heading": "(C)",
+      "char_start": 6538,
+      "char_end": 7218
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0015",
+    "text": "ion specifications: Minimum necessary requests for protected health information.\n\n(i) A covered entity must limit any request for protected health information to that which is\nreasonably necessary to accomplish the purpose for which the request is made, when\nrequesting such information from other covered entities. (ii) For a request that is made on a routine and recurring basis, a covered entity must implement\npolicies and procedures (which may be standard protocols) that limit the protected health\ninformation requested to the amount reasonably necessary to accomplish the purpose for\nwhich the request is made. (iii) For all other requests, a covered entity must:",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 15,
+      "start_page": 3,
+      "end_page": 3,
+      "heading": "(i)",
+      "char_start": 7138,
+      "char_end": 7808
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0016",
+    "text": "which the request is made. (iii) For all other requests, a covered entity must:\n\n(A) Develop criteria designed to limit the request for protected health information to the\ninformation reasonably necessary to accomplish the purpose for which the request is\nmade; and\n(B) Review requests for disclosure on an individual basis in accordance with such criteria. (5) Implementation specification: Other content requirement.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 16,
+      "start_page": 3,
+      "end_page": 3,
+      "heading": "(A)",
+      "char_start": 7728,
+      "char_end": 8146
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0017",
+    "text": "with such criteria. (5) Implementation specification: Other content requirement.\n\nFor all uses, disclosures, or requests to\nwhich the requirements in paragraph (d) of this section apply, a covered entity may not use, disclose\nor request an entire medical record, except when the entire medical record is specifically justified as\nthe amount that is reasonably necessary to accomplish the purpose of the use, disclosure, or\nrequest. (e)\n(1) Standard: Limited data set.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 17,
+      "start_page": 3,
+      "end_page": 4,
+      "heading": "(1)",
+      "char_start": 8067,
+      "char_end": 8534
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0018",
+    "text": "purpose of the use, disclosure, or\nrequest. (e)\n(1) Standard: Limited data set.\n\nA covered entity may use or disclose a limited data set that meets the\nrequirements of paragraphs (e)(2) and (e)(3) of this section, if the covered entity enters into a data\nuse agreement with the limited data set recipient, in accordance with paragraph (e)(4) of this\nsection. (2) Implementation specification: Limited data set: A limited data set is protected health information that\nexcludes the following direct identifiers of the individual or of relatives, employers, or household\nmembers of the individual:\n(i) Names;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 18,
+      "start_page": 4,
+      "end_page": 4,
+      "heading": "(1)",
+      "char_start": 8454,
+      "char_end": 9059
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0019",
+    "text": "l or of relatives, employers, or household\nmembers of the individual:\n(i) Names;\n\n(ii) Postal address information, other than town or city, State, and zip code; (iii) Telephone numbers; (iv) Fax numbers; (v) Electronic mail addresses; (vi) Social security numbers; (vii) Medical record numbers; (viii) Health plan beneficiary numbers; (ix) Account numbers; (x) Certificate/license numbers; (xi) Vehicle identifiers and serial numbers, including license plate numbers; (xii) Device identifiers and serial numbers; (xiii) Web Universal Resource Locators (URLs); (xiv) Internet Protocol (IP) address numbers; (xv) Biometric identifiers, including finger and voice prints;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 19,
+      "start_page": 4,
+      "end_page": 4,
+      "heading": "(i)",
+      "char_start": 8980,
+      "char_end": 9648
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0020",
+    "text": "address numbers; (xv) Biometric identifiers, including finger and voice prints;\n\nand\n(xvi) Full face photographic images and any comparable images. (3) Implementation specification: Permitted purposes for uses and disclosures. (i) A covered entity may use or disclose a limited data set under paragraph (e)(1) of this section\nonly for the purposes of research, public health, or health care operations.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 20,
+      "start_page": 4,
+      "end_page": 4,
+      "heading": "(xvi)",
+      "char_start": 9568,
+      "char_end": 9970
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0021",
+    "text": "ion\nonly for the purposes of research, public health, or health care operations.\n\n(ii) A covered entity may use protected health information to create a limited data set that meets\nthe requirements of paragraph (e)(2) of this section, or disclose protected health information\nonly to a business associate for such purpose, whether or not the limited data set is to be used\nby the covered entity. (4) Implementation specifications: Data use agreement —\n(i) Agreement required.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 21,
+      "start_page": 4,
+      "end_page": 4,
+      "heading": "(ii)",
+      "char_start": 9891,
+      "char_end": 10366
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0022",
+    "text": "(4) Implementation specifications: Data use agreement —\n(i) Agreement required.\n\nA covered entity may use or disclose a limited data set under paragraph\n(e)(1) of this section only if the covered entity obtains satisfactory assurance, in the form of a\ndata use agreement that meets the requirements of this section, that the limited data set\nrecipient will only use or disclose the protected health information for limited purposes. (ii) Contents.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 22,
+      "start_page": 4,
+      "end_page": 4,
+      "heading": "(4)",
+      "char_start": 10286,
+      "char_end": 10733
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0023",
+    "text": "r disclose the protected health information for limited purposes. (ii) Contents.\n\nA data use agreement between the covered entity and the limited data set recipient\nmust:\n(A) Establish the permitted uses and disclosures of such information by the limited data set\nrecipient, consistent with paragraph (e)(3) of this section. The data use agreement may\nnot authorize the limited data set recipient to use or further disclose the information in a\nmanner that would violate the requirements of this subpart, if done by the covered entity; (B) Establish who is permitted to use or receive the limited data set;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 23,
+      "start_page": 4,
+      "end_page": 5,
+      "heading": "(A)",
+      "char_start": 10654,
+      "char_end": 11260
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0024",
+    "text": "d entity; (B) Establish who is permitted to use or receive the limited data set;\n\nand\n(C) Provide that the limited data set recipient will:\n(1) Not use or further disclose the information other than as permitted by the data use\nagreement or as otherwise required by law; (2) Use appropriate safeguards to prevent use or disclosure of the information other\nthan as provided for by the data use agreement; (3) Report to the covered entity any use or disclosure of the information not provided for\nby its data use agreement of which it becomes aware;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 24,
+      "start_page": 5,
+      "end_page": 5,
+      "heading": "(C)",
+      "char_start": 11180,
+      "char_end": 11727
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0025",
+    "text": "nformation not provided for\nby its data use agreement of which it becomes aware;\n\n(4) Ensure that any agents to whom it provides the limited data set agree to the same\nrestrictions and conditions that apply to the limited data set recipient with respect to\nsuch information; and\n(5) Not identify the information or contact the individuals. (iii) Compliance.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 25,
+      "start_page": 5,
+      "end_page": 5,
+      "heading": "(4)",
+      "char_start": 11647,
+      "char_end": 12004
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0026",
+    "text": "d\n(5) Not identify the information or contact the individuals. (iii) Compliance.\n\n(A) A covered entity is not in compliance with the standards in paragraph (e) of this section if\nthe covered entity knew of a pattern of activity or practice of the limited data set recipient\nthat constituted a material breach or violation of the data use agreement, unless the\ncovered entity took reasonable steps to cure the breach or end the violation, as applicable,\nand, if such steps were unsuccessful:\n(1) Discontinued disclosure of protected health information to the recipient; and\n(2) Reported the problem to the Secretary.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 26,
+      "start_page": 5,
+      "end_page": 5,
+      "heading": "(5)",
+      "char_start": 11924,
+      "char_end": 12539
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0027",
+    "text": "lth information to the recipient; and\n(2) Reported the problem to the Secretary.\n\n(B) A covered entity that is a limited data set recipient and violates a data use agreement will\nbe in noncompliance with the standards, implementation specifications, and requirements\nof paragraph (e) of this section. (f) Fundraising communications —",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 27,
+      "start_page": 5,
+      "end_page": 5,
+      "heading": "(2)",
+      "char_start": 12459,
+      "char_end": 12792
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0028",
+    "text": "requirements\nof paragraph (e) of this section. (f) Fundraising communications —\n\n(1) Standard: Uses and disclosures for fundraising. Subject to the conditions of paragraph (f)(2) of this\nsection, a covered entity may use, or disclose to a business associate or to an institutionally related\nfoundation, the following protected health information for the purpose of raising funds for its own\nbenefit, without an authorization meeting the requirements of § 164.508:\n(i) Demographic information relating to an individual, including name, address, other contact\ninformation, age, gender, and date of birth; (ii) Dates of health care provided to an individual;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 28,
+      "start_page": 5,
+      "end_page": 5,
+      "heading": "(1)",
+      "char_start": 12712,
+      "char_end": 13367
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0029",
+    "text": "gender, and date of birth; (ii) Dates of health care provided to an individual;\n\n(iii) Department of service information; (iv) Treating physician; (v) Outcome information; and\n(vi) Health insurance status. (2) Implementation specifications: Fundraising requirements. (i) A covered entity may not use or disclose protected health information for fundraising purposes\nas otherwise permitted by paragraph (f)(1) of this section unless a statement required by §\n164.520(b)(1)(iii)(A) is included in the covered entity's notice of privacy practices.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 29,
+      "start_page": 5,
+      "end_page": 6,
+      "heading": "(iii)",
+      "char_start": 13288,
+      "char_end": 13832
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0030",
+    "text": "0(b)(1)(iii)(A) is included in the covered entity's notice of privacy practices.\n\n(ii) With each fundraising communication made to an individual under this paragraph, a covered\nentity must provide the individual with a clear and conspicuous opportunity to elect not to\nreceive any further fundraising communications. The method for an individual to elect not to\nreceive further fundraising communications may not cause the individual to incur an undue\nburden or more than a nominal cost. (iii) A covered entity may not condition treatment or payment on the individual's choice with respect\nto the receipt of fundraising communications.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 30,
+      "start_page": 5,
+      "end_page": 6,
+      "heading": "(ii)",
+      "char_start": 13753,
+      "char_end": 14388
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0031",
+    "text": "e individual's choice with respect\nto the receipt of fundraising communications.\n\n(iv) A covered entity may not make fundraising communications to an individual under this\nparagraph where the individual has elected not to receive such communications under\nparagraph (f)(2)(ii) of this section. (v) A covered entity may provide an individual who has elected not to receive further fundraising\ncommunications with a method to opt back in to receive such communications. (g) Standard: Uses and disclosures for underwriting and related purposes.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 31,
+      "start_page": 6,
+      "end_page": 6,
+      "heading": "(iv)",
+      "char_start": 14308,
+      "char_end": 14849
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0032",
+    "text": "tions. (g) Standard: Uses and disclosures for underwriting and related purposes.\n\nIf a health plan receives protected\nhealth information for the purpose of underwriting, premium rating, or other activities relating to the\ncreation, renewal, or replacement of a contract of health insurance or health benefits, and if such health\ninsurance or health benefits are not placed with the health plan, such health plan may only use or disclose\nsuch protected health information for such purpose or as may be required by law, subject to the\nprohibition at § 164.502(a)(5)(i) with respect to genetic information included in the protected health\ninformation.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 32,
+      "start_page": 6,
+      "end_page": 6,
+      "heading": "",
+      "char_start": 14769,
+      "char_end": 15417
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0033",
+    "text": "ith respect to genetic information included in the protected health\ninformation.\n\n(h)\n(1) Standard: Verification requirements. Prior to any disclosure permitted by this subpart, a covered\nentity must:",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 33,
+      "start_page": 6,
+      "end_page": 6,
+      "heading": "(h)",
+      "char_start": 15337,
+      "char_end": 15537
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0034",
+    "text": "ments. Prior to any disclosure permitted by this subpart, a covered\nentity must:\n\n(i) Except with respect to disclosures under § 164.510, verify the identity of a person requesting\nprotected health information and the authority of any such person to have access to protected\nhealth information under this subpart, if the identity or any such authority of such person is not\nknown to the covered entity; and\n(ii) Obtain any documentation, statements, or representations, whether oral or written, from the\nperson requesting the protected health information when such documentation, statement, or\nrepresentation is a condition of the disclosure under this subpart.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 34,
+      "start_page": 6,
+      "end_page": 6,
+      "heading": "(i)",
+      "char_start": 15457,
+      "char_end": 16118
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0035",
+    "text": "tatement, or\nrepresentation is a condition of the disclosure under this subpart.\n\n(2) Implementation specifications: Verification —\n(i) Conditions on disclosures. If a disclosure is conditioned by this subpart on particular\ndocumentation, statements, or representations from the person requesting the protected health\ninformation, a covered entity may rely, if such reliance is reasonable under the circumstances,\non documentation, statements, or representations that, on their face, meet the applicable\nrequirements.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 35,
+      "start_page": 6,
+      "end_page": 6,
+      "heading": "(2)",
+      "char_start": 16038,
+      "char_end": 16555
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0036",
+    "text": "ments, or representations that, on their face, meet the applicable\nrequirements.\n\n(A) The conditions in § 164.512(f)(1)(ii)(C) may be satisfied by the administrative subpoena or\nsimilar process or by a separate written statement that, on its face, demonstrates that the\napplicable requirements have been met. (B) The documentation required by § 164.512(i)(2) may be satisfied by one or more written\nstatements, provided that each is appropriately dated and signed in accordance with §\n164.512(i)(2)(i) and (v). (ii) Identity of public officials.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 36,
+      "start_page": 6,
+      "end_page": 7,
+      "heading": "(A)",
+      "char_start": 16475,
+      "char_end": 17020
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0037",
+    "text": "n accordance with §\n164.512(i)(2)(i) and (v). (ii) Identity of public officials.\n\nA covered entity may rely, if such reliance is reasonable under the\ncircumstances, on any of the following to verify identity when the disclosure of protected health\ninformation is to a public official or a person acting on behalf of the public official:\n(A) If the request is made in person, presentation of an agency identification badge, other\nofficial credentials, or other proof of government status; (B) If the request is in writing, the request is on the appropriate government letterhead;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 37,
+      "start_page": 7,
+      "end_page": 7,
+      "heading": "(A)",
+      "char_start": 16940,
+      "char_end": 17518
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0038",
+    "text": "request is in writing, the request is on the appropriate government letterhead;\n\nor\n(C) If the disclosure is to a person acting on behalf of a public official, a written statement on\nappropriate government letterhead that the person is acting under the government's\nauthority or other evidence or documentation of agency, such as a contract for services,\nmemorandum of understanding, or purchase order, that establishes that the person is\nacting on behalf of the public official. (iii) Authority of public officials.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 38,
+      "start_page": 7,
+      "end_page": 7,
+      "heading": "(C)",
+      "char_start": 17438,
+      "char_end": 17954
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0039",
+    "text": "is\nacting on behalf of the public official. (iii) Authority of public officials.\n\nA covered entity may rely, if such reliance is reasonable under the\ncircumstances, on any of the following to verify authority when the disclosure of protected\nhealth information is to a public official or a person acting on behalf of the public official:\n(A) A written statement of the legal authority under which the information is requested, or, if a\nwritten statement would be impracticable, an oral statement of such legal authority;",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 39,
+      "start_page": 7,
+      "end_page": 7,
+      "heading": "(A)",
+      "char_start": 17875,
+      "char_end": 18395
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0040",
+    "text": "ten statement would be impracticable, an oral statement of such legal authority;\n\n(B) If a request is made pursuant to legal process, warrant, subpoena, order, or other legal\nprocess issued by a grand jury or a judicial or administrative tribunal is presumed to\nconstitute legal authority.",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 40,
+      "start_page": 7,
+      "end_page": 7,
+      "heading": "(B)",
+      "char_start": 18315,
+      "char_end": 18604
+    }
+  },
+  {
+    "id": "45 CFR 164.514 (up to date as of 10-28-2026).pdf:0041",
+    "text": "a judicial or administrative tribunal is presumed to\nconstitute legal authority.\n\n(iv) Exercise of professional judgment. The verification requirements of this paragraph are met if the\ncovered entity relies on the exercise of professional judgment in making a use or disclosure in\naccordance with § 164.510 or acts on a good faith belief in making a disclosure in accordance\nwith § 164.512(j).\n[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53270, Aug. 14, 2002; 78 FR 5700, Jan. 25, 2013; 78 FR 34266, June 7, 2013]",
+    "metadata": {
+      "source": "45 CFR 164.514 (up to date as of 10-28-2026).pdf",
+      "chunk_index": 41,
+      "start_page": 7,
+      "end_page": 7,
+      "heading": "(iv)",
+      "char_start": 18524,
+      "char_end": 19042
+    }
+  }
+]

@@ -1,0 +1,21 @@
+# PDF processing
+pdfplumber==0.11.10
+
+# Vector database
+chromadb
+langchain-chroma        # LangChain integration for Chroma
+
+# RAG frameworks
+llama-index==0.14.25
+langchain==1.4.7
+
+# Local LLM + embeddings via Ollama (recommended for PHI — no data leaves machine)
+# Ollama server: install separately from https://ollama.com/download
+# then in PowerShell:
+#   ollama pull llama3.2:3b       <- LLM for the agent
+#   ollama pull nomic-embed-text  <- embedding model for Chroma
+ollama                  # Python client for the Ollama REST API
+langchain-ollama        # LangChain integration for Ollama
+
+# OpenAI (optional: hosted embeddings / LLM backend — data leaves machine)
+openai
