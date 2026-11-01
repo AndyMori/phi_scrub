@@ -18,6 +18,8 @@ I would use that office data to train my model, but it can't be used here becaus
 
 This project is an experiment, not a compliance tool. Its output should not be treated as de-identified data under 45 CFR § 164.514 without expert review.
 
+Happy with the results as I would not bother with a RAG should an LLM be used to deidentify phi information. Confident, should a project be undertaken in my office, a deidentification LLM could be constructed to remove phi from the lessons drawn from this project.
+
 ---
 
 ## How it works
